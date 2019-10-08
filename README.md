@@ -1,2 +1,2 @@
-# react
+# react-project
 React learning
